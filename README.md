@@ -22,3 +22,5 @@ This project was built for the KU Hackfest 2021. Due to the time limitation ther
 ## Conclusion
 The program provides a very accurate training algorithm with the light weight output as .tflite file. The output file can be easily integrated in an offline mobile application. The program shows the output of the trained model in visualized chart format. It also provides a lot of flexibility for customization. Since this program is built to run on Google Colab, the training and visualization process does not put burden on the local computer resources.  Kaggle can also be used as an alternative platform for training the datasets.
 
+## Check the Android part of this project
+[AIPPA - The Plant Doctor (Android Part)](https://github.com/lazarusnepal1/AIPPA-ML-Android)
